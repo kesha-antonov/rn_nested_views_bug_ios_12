@@ -1,0 +1,187 @@
+/**
+ * Sample React Native App
+ * https://github.com/facebook/react-native
+ *
+ * @format
+ * @flow strict-local
+ */
+
+import React from 'react'
+import {
+  View,
+  Text,
+} from 'react-native'
+
+const App = () => {
+  return (
+    <View style={{padding: 100}}>
+    <View>
+    <View>
+    <View>
+    <View>
+    <View>
+    <View>
+    <View>
+    <View>
+    <View>
+    <View>
+    <View>
+    <View>
+    <View>
+    <View>
+    <View>
+    <View>
+    <View>
+    <View>
+    <View>
+    <View>
+    <View>
+    <View>
+    <View>
+    <View>
+    <View>
+    <View>
+    <View>
+    <View>
+    <View>
+    <View>
+    <View>
+    <View>
+    <View>
+    <View>
+    <View>
+    <View>
+    <View>
+    <View>
+    <View>
+    <View>
+    <View>
+    <View>
+    <View>
+    <View>
+    <View>
+    <View>
+    <View>
+    <View>
+    <View>
+    <View>
+    <View>
+    <View>
+    <View>
+    <View>
+    <View>
+    <View>
+    <View>
+    <View>
+    <View>
+    <View>
+    <View>
+    <View>
+    <View>
+    <View>
+    <View>
+    <View>
+    <View>
+    <View>
+    <View>
+    <View>
+    <View>
+    <View>
+    <View>
+    <View>
+    <View>
+    <View>
+    <View>
+    <View>
+        <Text>
+          {'test 1'}
+        </Text>
+        <Text>
+          {'test 2'}
+        </Text>
+        <Text>
+          {'test 3'}
+        </Text>
+    </View>
+    </View>
+    </View>
+    </View>
+    </View>
+    </View>
+    </View>
+    </View>
+    </View>
+    </View>
+    </View>
+    </View>
+    </View>
+    </View>
+    </View>
+    </View>
+    </View>
+    </View>
+    </View>
+    </View>
+    </View>
+    </View>
+    </View>
+    </View>
+    </View>
+    </View>
+    </View>
+    </View>
+    </View>
+    </View>
+    </View>
+    </View>
+    </View>
+    </View>
+    </View>
+    </View>
+    </View>
+    </View>
+    </View>
+    </View>
+    </View>
+    </View>
+    </View>
+    </View>
+    </View>
+    </View>
+    </View>
+    </View>
+    </View>
+    </View>
+    </View>
+    </View>
+    </View>
+    </View>
+    </View>
+    </View>
+    </View>
+    </View>
+    </View>
+    </View>
+    </View>
+    </View>
+    </View>
+    </View>
+    </View>
+    </View>
+    </View>
+    </View>
+    </View>
+    </View>
+    </View>
+    </View>
+    </View>
+    </View>
+    </View>
+    </View>
+    </View>
+    </View>
+    </View>
+  )
+}
+
+export default App
